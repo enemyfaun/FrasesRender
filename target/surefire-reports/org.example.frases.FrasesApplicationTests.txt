@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.example.frases.FrasesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.53 s -- in org.example.frases.FrasesApplicationTests
